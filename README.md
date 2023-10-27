@@ -12,7 +12,7 @@
 
 <p align="justify">
 
-An uncomplicated illustration demonstrating the process of retrieving Amazon Ads reports for several days, selecting specific metrics, all through Python and the Amazon Ads API.
+An uncomplicated illustration demonstrating the process of retrieving Amazon Ads reports for several days, selecting specific metrics, all through Python and the Facebook API.
 
 ### Notes 
 
